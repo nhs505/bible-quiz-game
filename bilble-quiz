@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bible Quiz Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="quiz-container">
+    <h1>Bible Quiz</h1>
+    <div id="question">Loading...</div>
+    <div id="choices"></div>
+    <button onclick="nextQuestion()">Next</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
