@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Who built the ark?",
+    "choices": ["Moses", "Noah", "Abraham", "David"],
+    "answer": "Noah"
+  },
+  {
+    "question": "What is the first book of the Bible?",
+    "choices": ["Exodus", "Genesis", "Psalms", "Matthew"],
+    "answer": "Genesis"
+  }
+]
