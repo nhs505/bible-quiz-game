@@ -1,1 +1,1 @@
-# bible-quiz-game
+# bible-quiz
